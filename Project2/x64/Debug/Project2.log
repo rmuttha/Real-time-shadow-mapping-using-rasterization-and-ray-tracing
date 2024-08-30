@@ -1,0 +1,18 @@
+﻿  main.cpp
+D:\Study\study\PROJECTS\GPU PROJECTS\Procedural Generation with ray tracing\main.cpp(64,19): error C2079: 'vShaderFile' uses undefined class 'std::basic_ifstream<char,std::char_traits<char>>'
+D:\Study\study\PROJECTS\GPU PROJECTS\Procedural Generation with ray tracing\main.cpp(64,30): error C2440: 'initializing': cannot convert from 'const char *' to 'int'
+      D:\Study\study\PROJECTS\GPU PROJECTS\Procedural Generation with ray tracing\main.cpp(64,30):
+      There is no context in which this conversion is possible
+  
+D:\Study\study\PROJECTS\GPU PROJECTS\Procedural Generation with ray tracing\main.cpp(65,23): error C2079: 'vShaderStream' uses undefined class 'std::basic_stringstream<char,std::char_traits<char>,std::allocator<char>>'
+D:\Study\study\PROJECTS\GPU PROJECTS\Procedural Generation with ray tracing\main.cpp(71,19): error C2079: 'fShaderFile' uses undefined class 'std::basic_ifstream<char,std::char_traits<char>>'
+D:\Study\study\PROJECTS\GPU PROJECTS\Procedural Generation with ray tracing\main.cpp(71,30): error C2440: 'initializing': cannot convert from 'const char *' to 'int'
+      D:\Study\study\PROJECTS\GPU PROJECTS\Procedural Generation with ray tracing\main.cpp(71,30):
+      There is no context in which this conversion is possible
+  
+D:\Study\study\PROJECTS\GPU PROJECTS\Procedural Generation with ray tracing\main.cpp(72,23): error C2079: 'fShaderStream' uses undefined class 'std::basic_stringstream<char,std::char_traits<char>,std::allocator<char>>'
+D:\Study\study\PROJECTS\GPU PROJECTS\Procedural Generation with ray tracing\main.cpp(122,5): error C2084: function 'int main(void)' already has a body
+      D:\Study\study\PROJECTS\GPU PROJECTS\Procedural Generation with ray tracing\main.cpp(12,5):
+      see previous definition of 'main'
+  
+D:\Study\study\PROJECTS\GPU PROJECTS\Procedural Generation with ray tracing\main.cpp(181,78): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
